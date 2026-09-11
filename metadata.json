@@ -1,0 +1,6 @@
+{
+  "name": "Comparador de Arquivos & Pastas",
+  "description": "Comparador e mesclador de arquivos e pastas em tempo real com realce de diferenças linha por linha, detecção semântica (if, funções, iterações) e transferência interativa de blocos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
